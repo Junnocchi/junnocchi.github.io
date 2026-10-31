@@ -1,0 +1,13 @@
+---
+title: "양자 공부 노트"
+subtitle: "개념을 이해하고, 수식으로 확인하고, 그림으로 설명하기"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+page-layout: full
+---
+
+양자역학과 양자컴퓨팅을 공부하며 이해한 내용을 차근차근 쌓아갑니다.

@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: _site
+website:
+  title: "양자 공부 노트"
+  site-url: https://junnocchi.github.io
+  description: "양자역학과 양자컴퓨팅을 공부하며 남기는 노트"
+  navbar:
+    left:
+      - href: index.qmd
+        text: 공부 노트
+      - href: about.qmd
+        text: 소개
+  search: true
+format:
+  html:
+    theme: cosmo
+    lang: ko
+    css: styles.css
+    toc: true
+    html-math-method: mathjax
