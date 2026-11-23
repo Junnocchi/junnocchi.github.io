@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Bottom-Up Study · Top-Down Research
 ---
 
 This is a blank Quartz installation.
